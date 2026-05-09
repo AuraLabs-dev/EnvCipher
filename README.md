@@ -45,7 +45,7 @@ EnvCipher relies on a strictly offline architecture. The Master Password you set
 
 <div align="center">
   
-**Built with precision by [AuraLabs PC](https://github.com/AuraLabs-PC)**  
+**Built with precision by [AuraLabs PC](https://github.com/AuraLabs)**  
 *Hardware Integration & B2B Software Solutions based in Turkey.*
 
 </div>
